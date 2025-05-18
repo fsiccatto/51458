@@ -1,0 +1,4 @@
+function calcular() {
+  leeer(numero);
+  escribir("Número: " + numero);
+}
