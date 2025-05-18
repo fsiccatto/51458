@@ -15,8 +15,8 @@ Abre tu terminal y ejecuta:
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/fsiccatto/analizador51458.git
-cd analizador51458
+git clone https://github.com/fsiccatto/51458.git
+cd 51458
 
 # 2. Instalar dependencias de Node.js
 npm install
